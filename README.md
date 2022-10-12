@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LETSDEVELOPALWAYS
-- 👀 I’m interested in programming such a c#
-- 🌱 I’m currently learning c#
+- 👀 I’m interested in programming such as HTML
+- 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on nothing, so far
 - 📫 How to reach me ...
 
